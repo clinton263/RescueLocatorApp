@@ -1,4 +1,9 @@
 package com.clinton.rescuelocatorapp.models
 
-class User {
-}
+
+
+data class User(
+    val name: String? = "",
+    val email : String? = "",
+    val phoneNumber : String? =""
+)
