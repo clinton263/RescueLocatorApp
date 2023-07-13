@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490391958852",
+    "project_id": "rescuelocatorapp",
+    "storage_bucket": "rescuelocatorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490391958852:android:56f1677b64d866af501311",
+        "android_client_info": {
+          "package_name": "com.clinton.rescuelocatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490391958852-so46786e0amk5d7n90jgbhpjliarmqk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfoci4Ndq-GHFZqYA5QgagNTnxhOCLYqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490391958852-so46786e0amk5d7n90jgbhpjliarmqk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
